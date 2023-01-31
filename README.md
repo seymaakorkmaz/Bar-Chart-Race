@@ -1,1 +1,1 @@
-# Bar Chart Race
+### Bar Chart Race
